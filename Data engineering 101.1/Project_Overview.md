@@ -135,9 +135,6 @@ Customer age is computed dynamically using `FLOOR(months_between(CURRENT_DATE(),
 
 ---
 
-## Author
-
-**Daniel Arebu**
 Data Engineering 101 Project
 GitHub: [DanielArebu](https://github.com/DanielArebu)
 

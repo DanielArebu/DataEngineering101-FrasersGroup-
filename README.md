@@ -45,7 +45,6 @@ DataEngineering101-FrasersGroup-
 1. Clone this repository into a Databricks Git folder
 2. Open `Data Engineering 101` in the Databricks notebook editor
 3. Run all cells from top to bottom
-4. Query `vw_sales` to view the denormalised sales report
 
 ## Documentation
 

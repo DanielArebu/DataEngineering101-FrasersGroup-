@@ -51,9 +51,9 @@ DataEngineering101-FrasersGroup-
 
 Detailed documentation is available in the [Documents](https://github.com/DanielArebu/DataEngineering101-FrasersGroup-/tree/main/Data%20engineering%20101.1) folder:
 
-- [Project Overview](Documents/Project_Overview.md) — Architecture, objectives, and key workflows
-- [Database Schema](Documents/Database_Schema.md) — Complete DDL, constraints, and ERD
-- [Data Dictionary](Documents/Data_Dictionary.md) — Column descriptions for all tables
+- [Project Overview]([Documents/Project_Overview.md](https://github.com/DanielArebu/DataEngineering101-FrasersGroup-/blob/main/Data%20engineering%20101.1/Data%20Engineering%20101.ipynb)) — Architecture, objectives, and key workflows
+- [Database Schema]([Documents/Database_Schema.md](https://github.com/DanielArebu/DataEngineering101-FrasersGroup-/blob/main/Data%20engineering%20101.1/Database_Schema.md)) — Complete DDL, constraints, and ERD
+- [Data Dictionary]([Documents/Data_Dictionary.md](https://github.com/DanielArebu/DataEngineering101-FrasersGroup-/blob/main/Data%20engineering%20101.1/Data_Dictionary.md)) — Column descriptions for all tables
 
 ## Technology Stack
 

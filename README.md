@@ -65,9 +65,7 @@ Detailed documentation is available in the [Documents](Documents/) folder:
 | Query Language | Databricks SQL |
 | Version Control | GitHub |
 
-## Author
 
-**Daniel Arebu** — [GitHub](https://github.com/DanielArebu)
 
 ## License
 

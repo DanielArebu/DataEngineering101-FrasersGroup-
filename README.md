@@ -10,11 +10,11 @@ The project demonstrates the full data engineering lifecycle: schema design, dim
 
 ```
 DataEngineering101-FrasersGroup-
-├── Data Engineering 101.py          # Main Databricks notebook (22 cells)
+├── Data Engineering 101.py         
 ├── Documents/
-│   ├── Project_Overview.md          # High-level architecture, objectives, workflows
-│   ├── Database_Schema.md           # Complete table DDL, constraints, ERD
-│   └── Data_Dictionary.md          # Column-by-column descriptions for all tables
+│   ├── Project_Overview.md          
+│   ├── Database_Schema.md           
+│   └── Data_Dictionary.md        
 ├── LICENSE
 └── README.md
 ```
@@ -42,8 +42,8 @@ DataEngineering101-FrasersGroup-
 
 ## How to Run
 
-1. Clone this repository into a Databricks Git folder
-2. Open `Data Engineering 101` in the Databricks notebook editor
+1. Clone this repository into a Git folder
+2. Open `Data Engineering 101` in a notebook editor
 3. Run all cells from top to bottom
 
 ## Documentation

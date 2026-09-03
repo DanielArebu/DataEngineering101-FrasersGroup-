@@ -49,7 +49,7 @@ DataEngineering101-FrasersGroup-
 
 ## Documentation
 
-Detailed documentation is available in the [Documents](Documents/) folder:
+Detailed documentation is available in the [Documents](https://github.com/DanielArebu/DataEngineering101-FrasersGroup-/tree/main/Data%20engineering%20101.1) folder:
 
 - [Project Overview](Documents/Project_Overview.md) — Architecture, objectives, and key workflows
 - [Database Schema](Documents/Database_Schema.md) — Complete DDL, constraints, and ERD
